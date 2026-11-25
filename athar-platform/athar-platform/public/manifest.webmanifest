@@ -1,0 +1,9 @@
+{
+  "name": "Athar Student Projects",
+  "short_name": "Athar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f7",
+  "theme_color": "#123b55",
+  "description": "Helwan Technological University student projects platform"
+}

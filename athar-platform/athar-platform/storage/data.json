@@ -1,0 +1,13 @@
+{
+  "projects": [],
+  "inquiries": [],
+  "surveys": [],
+  "officers": [
+    {
+      "id": "staff-1",
+      "name": "Faculty Officer",
+      "title": "Dr.",
+      "department": "Administration"
+    }
+  ]
+}
